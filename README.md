@@ -50,11 +50,11 @@ Para iniciar la aplicación, ejecuta el archivo principal (ajusta el nombre si e
 python main.py
 ```
 🔐 Configuración de Firebase
-Ve a Firebase Console y crea un nuevo proyecto.
+- Ve a Firebase Console y crea un nuevo proyecto.
 
-Genera una clave privada en formato .json desde la sección de cuentas de servicio.
+- Genera una clave privada en formato .json desde la sección de cuentas de servicio.
 
-Guarda el archivo en una carpeta del proyecto, por ejemplo: credenciales/firebase_key.json.
+- Guarda el archivo en una carpeta del proyecto, por ejemplo: credenciales/firebase_key.json.
 
 Asegúrate de que tu código lo cargue correctamente:
 ```bash
